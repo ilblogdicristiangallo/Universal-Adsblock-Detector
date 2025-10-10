@@ -11,7 +11,9 @@ PHP 7.4+
 
 No external dependencies required. Fully compatible with all themes and devices.
 
-The theme must include <?php wp_footer(); ?> in its footer.php file. The plugin must be activated and not blocked by security or misconfigured caching plugins.
+# Attention
+
+⚠️ The theme must include <?php wp_footer(); ?> in its footer.php file. The plugin must be activated and not blocked by security or misconfigured caching plugins.
 
 # Installation
 

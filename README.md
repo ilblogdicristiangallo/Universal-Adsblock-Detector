@@ -9,7 +9,20 @@ WordPress 5.0+
 
 PHP 7.4+
 
-No external dependencies required.
+No external dependencies required. Fully compatible with all themes and devices.
+
+# Installation
+
+Log in to your WordPress admin panel
+
+Navigate to Plugins → Add New → Upload Plugin
+
+Select the .zip file of Universal AdsBlock & VPN Detector
+
+Click Install Now, then Activate
+
+Go to Settings → AdsBlock Detector to configure options
+
 
 # AD Block Detector 
 

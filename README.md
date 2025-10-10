@@ -10,3 +10,8 @@ WordPress 5.0+
 PHP 7.4+
 
 No external dependencies required.
+
+# AD Block Detector 
+
+<img src="https://raw.githubusercontent.com/ilblogdicristiangallo/Universal-Adsblock-Detector/main/universal-adsdblocker-ilblogdicristiangallo.png" alt="Universal Adsblock Detector">
+

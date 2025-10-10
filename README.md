@@ -5,15 +5,21 @@ Universal AdsBlock &amp; VPN Detector is a modular WordPress plugin that detects
 
 # Requirement
 
-WordPress 5.0+
+Compatible WordPress Versions WordPress 5.0 and above, including the current version 6.8.3. 
 
-PHP 7.4+
+Tested with PHP 7.4+, 8.0+, and 8.2. 
 
-No external dependencies required. Fully compatible with all themes and devices.
+Fully functional in both Classic mode and Gutenberg editor
+
+# Compatible Themes The plugin is universal because:
+
+It does not rely on theme-specific hooks 
+
+It injects the popup via wp_footer, which is present in all well-structured themes
 
 # Attention
 
-⚠️ The theme must include <?php wp_footer(); ?> in its footer.php file. The plugin must be activated and not blocked by security or misconfigured caching plugins.
+⚠️ The theme must include in its footer.php file. The plugin must be activated and not blocked by security or misconfigured caching plugins.
 
 # Installation
 

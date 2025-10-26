@@ -38,3 +38,5 @@ Go to Settings → AdsBlock Detector to configure options
 
 <img src="https://raw.githubusercontent.com/ilblogdicristiangallo/Universal-Adsblock-Detector/main/universal-adsdblocker-ilblogdicristiangallo.png" alt="Universal Adsblock Detector">
 
+# Visit my blog
+https://www.ilblogdicristiangallo.com
